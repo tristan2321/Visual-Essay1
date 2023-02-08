@@ -8,6 +8,7 @@
 
 # Blue jay painting
 The painting is very cool
+url="https://ebird.org/species/blujay"
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
