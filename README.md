@@ -8,7 +8,7 @@
 
 # Blue jay painting
 The painting is very cool
-URL="https://en.wikipedia.org/wiki/Blue_jay#/media/File:Blue_jay_in_PP_(30960).jpg"
+URL="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg"
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
