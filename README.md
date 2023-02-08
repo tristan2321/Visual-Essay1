@@ -6,22 +6,13 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg" 
        layout="vertical">
 
-# Blue jay painting
-The painting is very cool
-URL="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg"
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+# Blue Jay
+
+*This* is a _blue jay_.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       url="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 # Basic usage
 
